@@ -1,0 +1,18 @@
+/*
+input:invalid {
+    border-color: #f14668;
+}
+*/
+
+a.navbar-item>.icon:not(:last-child) {
+    margin-left:-.25em;
+    margin-right:.25em
+}
+
+.help {
+    display:none;
+}
+
+#irc {
+    max-height: 100px;
+}
